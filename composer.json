@@ -1,7 +1,7 @@
 {
     "name": "rocket/gate",
     "type": "library",
-    "require": {
+    "require-dev": {
         "pestphp/pest": "^3.5"
     },
     "license": "MIT",
