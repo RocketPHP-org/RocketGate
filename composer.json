@@ -1,0 +1,24 @@
+{
+    "name": "rocket/gate",
+    "type": "library",
+    "require": {
+        "pestphp/pest": "^3.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rocket\\Gate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yanis Cherfa",
+            "email": "private@email.com"
+        }
+    ],
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
